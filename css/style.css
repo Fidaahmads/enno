@@ -48,7 +48,7 @@ hr {
   line-height: 20px;
 }
 a.navbar-brand span {
-	color:#fff;
+  color:#fff;
 	font-size:35px;	
 }
 
@@ -529,7 +529,7 @@ footer {
 .copyright {
     font-size: 14px;
     color: #fff;
-    margin: 0;   
+    margin-left: 20px;   
     font-weight: 300;
     float: left;
 }
@@ -551,7 +551,7 @@ ul.social-network {
 
 ul.social-network li {
 	display:inline;
-	margin: 0 15px;
+	margin: 0 20px;
 	color:#6EE5A1;
 }
 ul.social-network li a {	
