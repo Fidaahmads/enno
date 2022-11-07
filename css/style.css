@@ -43,13 +43,13 @@ hr {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
+  padding: 10px 15px;
   font-size: 30px;
   line-height: 20px;
 }
 a.navbar-brand span {
   color:#fff;
-	font-size:35px;	
+	font-size:25px;	
 }
 
 .navbar-collapse {
